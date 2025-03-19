@@ -39,7 +39,7 @@ Se probaron distintos modelos de Machine Learning:
 ## 📉 Curva ROC del Mejor Modelo (SVC)
 Se presenta la curva ROC para evaluar la capacidad de discriminación del modelo SVC:
 
-![Curva ROC - SVC](results/roc_svc.png)
+![Curva ROC - SVC](roc_svc.png)
 
 ## 🤝 Contribuciones
 ¡Las contribuciones son bienvenidas! Si deseas mejorar este proyecto, abre un **pull request** o crea un **issue**.
