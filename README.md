@@ -12,7 +12,7 @@ El objetivo es desarrollar y comparar distintos modelos de clasificación, optim
 - **Variable objetivo**: `y` (0 = No acepta, 1 = Sí acepta)
 
 ## 🚀 Tecnologías Utilizadas
-- **Python 3.x**
+- **Python 3.12.7**
 - **Scikit-Learn** (Modelos de clasificación)
 - **Pandas** (Procesamiento de datos)
 - **NumPy** (Cálculos numéricos)
