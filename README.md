@@ -1,3 +1,13 @@
+---
+title: Proyecto IA
+emoji: 😻
+colorFrom: green
+colorTo: blue
+sdk: static
+pinned: false
+license: mit
+short_description: Modelo ML que predice si un cliente acepta o no la campaña
+---
 # 📊 Proyecto_IA - Machine Learning
 
 ## 📌 Descripción del Proyecto
